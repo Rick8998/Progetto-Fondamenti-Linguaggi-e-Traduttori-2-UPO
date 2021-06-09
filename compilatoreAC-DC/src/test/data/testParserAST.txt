@@ -1,0 +1,7 @@
+int a;
+int b;
+float c;
+a = 1;
+b = 5;
+c = a / b;
+print a;
